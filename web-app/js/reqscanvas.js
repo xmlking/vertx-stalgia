@@ -1,6 +1,7 @@
 /**
  *   Nodestalgia websocket & canvas experiment
  *   2012 fcsonline
+ *   Sumo: This file is copied from https://github.com/fcsonline/nodestalgia/tree/develop/public/javascripts and modified to use Vert.X EventBus
  */
 (function(){
 
